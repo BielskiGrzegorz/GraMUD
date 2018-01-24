@@ -1,0 +1,1 @@
+bob puste  dane/Save/bob.txt 8 8

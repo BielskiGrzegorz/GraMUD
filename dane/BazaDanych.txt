@@ -1,0 +1,8 @@
+bob bob dane/Save/bob.txt
+Bob random dane/Save/Bob.txt
+Andrzej Duda dane/Save/Andrzej.txt
+adwqasd wadasd dane/Save/adwqasd.txt
+asdas asdas dane/Save/asdas.txt
+2312321 12313123 dane/Save/2312321.txt
+Robert Burnejka dane/Save/Robert.txt
+wluczykij 123 dane/Save/wluczykij.txt
